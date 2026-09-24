@@ -2,7 +2,7 @@
 
 **Arista Networks · Team 15**
 
-Entire Submission can be accessed vua this drive link:
+Entire Submission can be accessed via this drive link:
 https://drive.google.com/file/d/1dGI2lKqFzNKRnciS8V1jckWEFdTMiIYG/view?usp=sharing
 
 RRM+ is a closed-loop Radio Resource Management (RRM) architecture that
